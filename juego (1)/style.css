@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(232, 234, 136, 0.781);
+    display: block;
+}
+h1{
+    position: center;
+    color: blueviolet;
+}
+.container{
+    width: 980px;
+    height: 20vh;
+    margin:2rem auto;
+}
+.contenedor{
+    width: 1059px;
+    height: 550px;
+    position: relative;
+    border:1px solid rgb(93, 141, 245);
+    margin:3rem auto;
+}
+.bloque{
+    
+    height:35px;
+    width:120px;
+    background-color:rgba(171, 115, 244, 0.705);
+    position: absolute;
+}
+.usuario{
+    width:120px;
+    height:10px;
+    position:absolute;
+    background-color:rgb(117, 206, 241);
+}
+.bola{
+    height:15px;
+    width:15px;
+    position:absolute;
+    border-radius: 10px;
+    background-color:rgb(249, 159, 214);
+}
+html, body 
+{ 
+ height: 100%;
+ overflow: hidden
+}
+element.style {
+    left: 939px;
+    bottom: 10px;
+}
